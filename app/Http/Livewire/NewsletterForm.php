@@ -17,7 +17,7 @@ final class NewsletterForm extends Component
      */
     protected $rules = [
         'name' => 'required|min:3',
-        'email' => 'required',
+        'email' => 'required|email',
     ];
 
     /**
@@ -26,6 +26,7 @@ final class NewsletterForm extends Component
     protected $messages = [
         'required' => 'Pô, esqueceu de escrever o :attribute?',
         'min' => 'Aqui não paga por letra enviada! Manda no mínimo :min!',
+        'email' => 'Bebeu todas? Email é tipo voce@voce.com.br',
     ];
 
     public function submit(): void
