@@ -50,10 +50,10 @@ Demo APP for educational purpose presented at Beer and Code Youtube channel.
 
 Links featured in the live
 
-- [https://pandao.github.io/editor.md/en.html](Pandao editor)
-- [https://readme.so/editor](Readme.so)
-- [https://howtostartanllc.com/logo-maker/](Logo Maker)
-- [https://banner.godori.dev/](Banner maker)
+- [Pandao editor](https://pandao.github.io/editor.md/en.html)
+- [Readme.so](https://readme.so/editor)
+- [Logo Maker](https://howtostartanllc.com/logo-maker/)
+- [Banner maker](https://banner.godori.dev/)
 
 ## Technologies
 
