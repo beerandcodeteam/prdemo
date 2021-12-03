@@ -47,7 +47,7 @@ Demo APP for educational purpose presented at Beer and Code Youtube channel.
 📺  Watch at:
 
 - [How to "How to send Pull Requests"](https://www.youtube.com/watch?v=-SWCz3U3pOE) with [@vs0uz4](https://github.com/vs0uz4.)
-- "PR & README" with [@DanSysAnalyst](https://github.com/dansysanalyst).
+- ["Receiving PRs & Improve your project: Write a README"](https://www.youtube.com/watch?v=JCdDbsh46Uo) with [@DanSysAnalyst](https://github.com/dansysanalyst).
 
 
 <br/>
