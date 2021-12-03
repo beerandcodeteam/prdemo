@@ -1,11 +1,8 @@
 
+![Logo](https://raw.githubusercontent.com/beerandcodeteam/prdemo/main/header.png) 
 
-![Logo](https://raw.githubusercontent.com/beerandcodeteam/prdemo/main/header.png)
-
-
-
-![](https://img.shields.io/github/stars/beerandcodeteam/prdemo)![](https://img.shields.io/github/last-commit/beerandcodeteam/prdemo) 
-
+![](https://img.shields.io/github/stars/beerandcodeteam/prdemo)
+![](https://img.shields.io/github/last-commit/beerandcodeteam/prdemo) 
 
 # Beer and code Newsletter APP
 
@@ -15,7 +12,7 @@ O Beer and Code envia Newsletters semanalmente com conteúdo de Laravel.
 
 ## Perguntas
 
-#### Como cadastrar usuários?
+### Como cadastrar usuários?
 
 Para cadastrar usuários entre em http://beerandcode/newsletter
 
@@ -31,15 +28,9 @@ Para listar usuários entre em http://beerandcode/lista
 git clone https://github.com/beerandcodeteam/prdemo.git && cd prdemo
 ```
 
-#### 2. Instale dependencias usando o [Composer][composer]
+#### 2. Instale dependencias usando o [Composer](https://getcomposer.org)
 
-```bash
-composer install
-```
-
-
-
-[composer]: http://www.getcomposer.org "composer"
+...
 
 ## 🚨 About this repository
 
@@ -49,11 +40,20 @@ Demo APP for educational purpose presented at Beer and Code Youtube channel.
 
 📺  Watch at:
 
-- [How to "How to send Pull Requests"](https://www.youtube.com/watch?v=-SWCz3U3pOE) with [@vs0uz4](https://github.com/vs0uz4.)
+- ["How to "How to send Pull Requests"](https://www.youtube.com/watch?v=-SWCz3U3pOE) with [@vs0uz4](https://github.com/vs0uz4.)
 - ["Receiving PRs & Improve your project: Write a README"](https://www.youtube.com/watch?v=JCdDbsh46Uo) with [@DanSysAnalyst](https://github.com/dansysanalyst).
 
 
 <br/>
+
+## Useful Links
+
+Links featured in the live
+
+- [https://pandao.github.io/editor.md/en.html](Pandao editor)
+- [https://readme.so/editor](Readme.so)
+- [https://howtostartanllc.com/logo-maker/](Logo Maker)
+- [https://banner.godori.dev/](Banner maker)
 
 ## Technologies
 
