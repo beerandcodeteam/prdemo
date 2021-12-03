@@ -1,42 +1,45 @@
-wip!
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
+
+
+![Logo](https://raw.githubusercontent.com/beerandcodeteam/prdemo/main/header.png)
+
+
+
+![](https://img.shields.io/github/stars/beerandcodeteam/prdemo)![](https://img.shields.io/github/last-commit/beerandcodeteam/prdemo) 
+
+
+# Beer and code Newsletter APP
+
+Esta é uma aplicação para o envio de Newsletters e permite o cadastro de usuários (leitores) através de uma “interface” amigável.
+
+O Beer and Code envia Newsletters semanalmente com conteúdo de Laravel.
+
+## Perguntas
+
+#### Como cadastrar usuários?
+
+Para cadastrar usuários entre em http://beerandcode/newsletter
+
+#### Como listar usuários?
+
+Para listar usuários entre em http://beerandcode/lista
+
+### Rodando localemente
+
+#### 1.  Clone o projeto e entre no diretório
+
+```bash
+git clone https://github.com/beerandcodeteam/prdemo.git && cd prdemo
+```
+
+#### 2. Instale dependencias usando o [Composer][composer]
+
+```bash
+composer install
+```
+
+
+
+[composer]: http://www.getcomposer.org "composer"
 
 ## 🚨 About this repository
 
